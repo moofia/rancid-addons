@@ -3,9 +3,9 @@ rancid-addons
 
 tools and addons to rancid 
 
-= devices =
+# devices
 
-== acme ==
+## acme
 
 acme packet devices 
 
