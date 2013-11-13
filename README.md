@@ -7,7 +7,8 @@ tools and addons to rancid
 
 ## acme
 
-acme packet devices 
+acme packet devices.
+
 
 commands collected
 
@@ -20,4 +21,13 @@ commands collected
 * show directory *
 * show configuration
 
+Copy acme_rancid to your rancid install bin directory and edit rancid-fe 
 
+```
+%vendortable = (
+    'acme'              => 'acme_rancid',
+```
+
+# bash completion
+
+While supporting rancid enable bash completion for various commands telnet / ssh / ping / traceroute / *login makes ones life much easier.
