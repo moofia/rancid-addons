@@ -1,12 +1,12 @@
 #! /usr/bin/perl
 
+# https://github.com/moofia/rancid-addons
+#
 # a modified version of a standard cisco rancid parser changed to work for acme devices.
 #
 # debug with:
 #
 # clogin -t 90 -c"show version;show version image;show version boot;show prom-info all;show features;show power;show directory *;show configuration"
-# 
-# debug with:
 #
 # acme_rancid -d device
 #
