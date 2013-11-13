@@ -7,8 +7,7 @@ tools and addons to rancid
 
 ## acme
 
-acme packet devices.
-
+Enables rancid to work with acme packet devices.
 
 commands collected
 
