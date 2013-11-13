@@ -1,4 +1,6 @@
 # https://github.com/moofia/rancid-addons
+# 
+# curl https://raw.github.com/moofia/rancid-addons/master/bash_completion/rancid.bash >> ~/.profile
 
 # rancid working copy
 RANCID_VAR='/home/rancid/var'
